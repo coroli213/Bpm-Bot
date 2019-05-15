@@ -1,0 +1,15 @@
+C:\Users\dns\source\repos\norbittask\norbittask\bin\Debug\norbittask.exe.config
+C:\Users\dns\source\repos\norbittask\norbittask\bin\Debug\norbittask.exe
+C:\Users\dns\source\repos\norbittask\norbittask\bin\Debug\norbittask.pdb
+C:\Users\dns\source\repos\norbittask\norbittask\bin\Debug\MihaZupan.HttpToSocks5Proxy.dll
+C:\Users\dns\source\repos\norbittask\norbittask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dns\source\repos\norbittask\norbittask\bin\Debug\Telegram.Bot.dll
+C:\Users\dns\source\repos\norbittask\norbittask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dns\source\repos\norbittask\norbittask\bin\Debug\Telegram.Bot.xml
+C:\Users\dns\source\repos\norbittask\norbittask\obj\Debug\norbittask.csprojAssemblyReference.cache
+C:\Users\dns\source\repos\norbittask\norbittask\obj\Debug\norbittask.csproj.CoreCompileInputs.cache
+C:\Users\dns\source\repos\norbittask\norbittask\obj\Debug\norbittask.csproj.CopyComplete
+C:\Users\dns\source\repos\norbittask\norbittask\obj\Debug\norbittask.exe
+C:\Users\dns\source\repos\norbittask\norbittask\obj\Debug\norbittask.pdb
+C:\Users\dns\source\repos\norbittask\norbittask\bin\Debug\Microsoft.VisualStudio.LiveShare.dll
+C:\Users\dns\source\repos\norbittask\norbittask\bin\Debug\Microsoft.VisualStudio.LiveShare.xml
